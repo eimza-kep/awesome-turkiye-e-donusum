@@ -68,36 +68,18 @@ BTK tarafından yetkilendirilmiş resmi Elektronik Sertifika Hizmet Sağlayıcı
 * [gib-java-guvenlik-cozucu](https://github.com/eimza-kep/gib-java-guvenlik-cozucu) - GİB, UYAP, MERSİS ve EKAP Java "Application Blocked" güvenlik engelini tek tıkla çözen araç.
 * [mali-muhur-eimza-suresi-kontrol](https://github.com/eimza-kep/mali-muhur-eimza-suresi-kontrol) - Takılı Mali Mühür ve E-İmzaların bitiş süresini tarayan ve kalan gün sayısını raporlayan denetleyici.
 * [akilli-kart-surucu-teshis](https://github.com/eimza-kep/akilli-kart-surucu-teshis) - Windows 10/11 "Akıllı kart tanınmıyor" hatasını teşhis eden ve servisleri onaran araç.
+* [python-pdf-eimza-dogrulayici](https://github.com/eimza-kep/python-pdf-eimza-dogrulayici) - Türkiye PAdES/CAdES standartlarındaki PDF imzalarını sıfır harici bağımlılıkla doğrulayan araç.
 
 ---
 
-## 📚 Teknik Çözüm ve Hata Rehberleri
+## 📚 Resmi Rehberler ve Dokümantasyon
 
-Türkiye'deki yaygın e-imza ve e-dönüşüm sorunlarına yönelik detaylı başucu kılavuzları:
-
-* 📖 [E-İmza Cihazları (USB Token) Nasıl Çalışır? Çipin İçindeki Teknik Dünya](https://eimza-kep.github.io/eimza-blog/posts/e-imza-cihazlari-nasil-calisir-teknik-rehber.html) - Kriptografik akıllı kart mimarisi ve asimetrik şifreleme (PKI).
-* 📖 [Windows 11'de 'Akıllı Kart Tanınmıyor' Hatası ve Sürücü Çözümleri](https://eimza-kep.github.io/eimza-blog/posts/windows-11-akilli-kart-taninmiyor-cozumu.html) - Windows 11 Smart Card Resource Manager sorunları.
-* 📖 [GİB e-Belge ve e-Defter Portalı 'Java Security Blocked' Kesin Çözümü](https://eimza-kep.github.io/eimza-blog/posts/gib-java-security-engeli-cozumu.html) - Exception site list yapılandırması.
-* 📖 [Mali Mühür Süresi Bitti! E-Fatura Kesemiyorum, Acil Ne Yapmalıyım?](https://eimza-kep.github.io/eimza-blog/posts/mali-muhur-suresi-doldu-ne-yapilmali.html) - Şirketler için kriz yönetimi ve geçici çözümler.
-* 📖 [e-Defter Beratı Gönderiminde Son Gün Krizleri: Mali Mühür Hataları](https://eimza-kep.github.io/eimza-blog/posts/e-defter-berati-gonderimi-mali-muhur.html) - Berat imzalama kilitlenmeleri.
-* 📖 [Hekimler İçin SGK Medula e-Reçete e-İmza Kurulum ve Çözüm Rehberi](https://eimza-kep.github.io/eimza-blog/posts/medula-e-recete-e-imza-kurulum-sorunlari.html) - Sağlık sektörü e-imza kılavuzu.
-* 📖 [EKAP İhalesine e-İmza ile Teklif Nasıl Verilir? Hatalar ve Çözümleri](https://eimza-kep.github.io/eimza-blog/posts/ekap-e-imza-ile-ihale-teklif-verme.html) - Kamu ihalelerinde e-teklif hazırlama.
-* 📖 [Noter Masraflarına Son: KEP Üzerinden İhtarname ve Fesih Bildirimi](https://eimza-kep.github.io/eimza-blog/posts/kep-ile-ihtarname-fesih-bildirimi.html) - Hukuki tebligatlarda KEP kullanımı.
-* 📖 [Web Tapu Üzerinden E-İmza ile Satış ve İpotek Başvurusu Rehberi](https://eimza-kep.github.io/eimza-blog/posts/web-tapu-e-imza-ile-basvuru-rehberi.html) - Gayrimenkul alım satımında dijital imza.
-* 📖 [Gümrük İşlemleri ve TAREKS Yetkilendirme Rehberi](https://eimza-kep.github.io/eimza-blog/posts/tareks-bilge-gumruk-e-imza-yetkilendirme.html) - İthalat ve ihracatta dijital imza yetkileri.
-* 📖 [MERSİS Üzerinden Şirket Kuruluşu ve e-İmza Kolaylığı](https://eimza-kep.github.io/eimza-blog/posts/etso-mersis-sirket-kurulusu-e-imza.html) - Ticaret odası tescil işlemleri.
-
----
-
-## 💼 KOBİ & E-Dönüşüm İş Modelleri
-
-* 📊 [e-SMM Nedir, Nasıl Kesilir? Serbest Meslek Erbabı Rehberi](https://eimza-kep.github.io/eimza-blog/posts/e-smm-nasil-kesilir-e-imza-rehberi.html)
-* 📊 [KOBİ OSB Üreticileri İçin e-İrsaliye Rehberi: Yol Denetimleri ve Karekod](https://eimza-kep.github.io/eimza-blog/posts/erzurum-osb-e-irsaliye-rehberi.html)
-* 📊 [Tarım ve Hayvancılıkta e-Müstahsil Makbuzu Rehberi](https://eimza-kep.github.io/eimza-blog/posts/erzurum-e-mustahsil-makbuzu-rehberi.html)
-* 📊 [Mikro İhracat ETGB ve e-Arşiv Fatura Rehberi](https://eimza-kep.github.io/eimza-blog/posts/erzurum-e-ihracat-etgb-fatura-rehberi.html)
-* 📊 [Excel'e Sıkışan KOBİ'ler: Özel Yazılıma (ERP) Geçiş Sancısı](https://eimza-kep.github.io/eimza-blog/posts/excelden-ozel-yazilima-gecemeyen-kobilerin-buyume-tuzagi.html)
-* 📊 [E-Dönüşümü Angarya Olarak Görme Yanılgısı](https://eimza-kep.github.io/eimza-blog/posts/e-donusumu-devletin-angaryasi-olarak-gorme-yanilgisi.html)
-* 📊 [KOBİ'lerde Büyümenin Önündeki Engel: Sermaye Değil Adaptasyon](https://eimza-kep.github.io/eimza-blog/posts/buyumenin-onundeki-asil-engel-sermaye-degil-adaptasyon.html)
+* 📖 [Kamu SM Kılavuzları](https://kamusm.bilgem.tubitak.gov.tr/destek/kilavuzlar/) - TÜBİTAK Kamu SM resmi kullanım ve kurulum kılavuzları.
+* 📖 [GİB e-Defter Kılavuzları](https://edefter.gov.tr/kilavuzlar.html) - Gelir İdaresi Başkanlığı e-Defter teknik ve mevzuat kılavuzları.
+* 📖 [GİB e-Arşiv Fatura Portalı Kullanım Kılavuzu](https://ebelge.gib.gov.tr/) - e-Belge portalı resmi rehberleri.
+* 📖 [EKAP Yardım Dokümanları](https://ekap.kik.gov.tr/) - Kamu İhale Kurumu e-teklif ve ihale rehberleri.
+* 📖 [Adalet Bakanlığı UYAP Yardım Masası](https://uyap.gov.tr/Uyap-Yardim) - Avukat ve vatandaş portalı e-imza sorun giderme kılavuzları.
+* 📖 [MERSİS Kullanım Kılavuzları](https://mersis.ticaret.gov.tr/) - Şirket tescil ve kuruluş adımları.
 
 ---
 
