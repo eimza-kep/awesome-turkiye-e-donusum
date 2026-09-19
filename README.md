@@ -92,3 +92,14 @@ Bu liste topluluk katkılarıyla büyümektedir. Yeni bir kütüphane, resmi kı
 ## ⚖️ Lisans
 
 Bu çalışma [Creative Commons Zero v1.0 Universal (CC0 1.0)](LICENSE) kapsamında kamu malı (Public Domain) olarak sunulmuştur.
+
+
+### 🌐 E-Dönüşüm Tematik Portalları ve Kılavuzlar
+* ✍️ **[E-İmza Rehberi](https://eimza-rehberi.pages.dev):** 5070 Sayılı Kanun, USB Token, AKİS sürücüleri ve PIN blokesi çözümleri.
+* 📜 **[KEP Akademisi](https://kep-akademisi.pages.dev):** Kayıtlı Elektronik Posta, noter masrafsız ihtarname ve delil güvenliği.
+* 🔴 **[Mali Mühür Merkezi](https://mali-muhur-merkezi.pages.dev):** TÜBİTAK Kamu SM başvuru, şirket kuruluşu ve e-Defter berat rehberleri.
+* 🧾 **[e-Fatura Atölyesi](https://efatura-atolyesi.pages.dev):** GİB e-Arşiv portal, e-İrsaliye karekod ve e-SMM hesaplamaları.
+* 🏭 **[E-Dönüşüm KOBİ](https://edonusum-kobi.pages.dev):** KOBİ dijitalleşmesi, ERP uyumu ve e-Müstahsil makbuzu rehberleri.
+* ⚖️ **[UYAP Teknik Destek](https://uyap-teknik-destek.pages.dev):** Hukukçular için UYAP Java, UDF editör onarımı ve e-Duruşma ayarları.
+* 🔐 **[Dijital Kimlik Lab](https://dijital-kimlik-guvenlik.pages.dev):** PKI kriptografisi, RSA/ECC, YubiKey FIDO2 ve Zero Trust standartları.
+* 🏛️ **[E-İmza Blog Ana Merkezi](https://eimza-kep.github.io/eimza-blog/):** Ulusal e-dönüşüm bilgi merkezi ve güncel teknik makaleler.
