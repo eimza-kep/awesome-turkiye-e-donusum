@@ -83,6 +83,10 @@ Geliştiriciler ve sistem yöneticileri için arama trafiği ve saha deneyimiyle
 * 📊 **[muhasebe-excel-sablonlari](https://github.com/eimza-kep/muhasebe-excel-sablonlari):** SMMM ve mali müşavirler için 7 adet tam formüllü Excel hesaplama ve denetim aracı (KDV tevkifat, amortisman, kıdem-ihbar, örtülü sermaye vb.).
 * ⚖️ **[avukat-hukuk-excel-hesaplamalari](https://github.com/eimza-kep/avukat-hukuk-excel-hesaplamalari):** Avukatlar ve hukuk büroları için 7 adet dinamik Excel hesaplama aracı (vekalet ücreti, harç-masraf, yasal/avans faiz, işçilik alacakları vb.).
 * 🏢 **[kobi-finans-yonetim-excel-sablonlari](https://github.com/eimza-kep/kobi-finans-yonetim-excel-sablonlari):** KOBİ ve işletmeler için 6 adet profesyonel finansal planlama ve nakit akış Excel şablonu (13 haftalık nakit akışı, başabaş analizi vb.).
+* 🛡️ **[kurumsal-kvkk-basvuru-scripti](https://github.com/eimza-kep/kurumsal-kvkk-basvuru-scripti):** 6698 Sayılı KVKK İlgili Kişi (Veri Sahibi) Başvuru Formu, 30 günlük yasal süre takip paneli ve hafif çerez izin barı scripti.
+* 💼 **[kobi-hizli-teklif-scripti](https://github.com/eimza-kep/kobi-hizli-teklif-scripti):** KOBİ ve B2B firmalar için 1 dakikada kurulan fiyat teklifi talep scripti, dinamik sepet/KDV hesaplayıcı, yazdırılabilir proforma ve WhatsApp entegrasyonu.
+* ⚖️ **[avukat-muvekkil-on-kayit-scripti](https://github.com/eimza-kep/avukat-muvekkil-on-kayit-scripti):** Avukatlar ve hukuk büroları için müvekkil ön görüşme, dosya kabul ve Avukatlık Kanunu Md. 38 çıkar çatışması (conflict check) portalı.
+* 📊 **[muhasebe-mukellef-evrak-scripti](https://github.com/eimza-kep/muhasebe-mukellef-evrak-scripti):** SMMM ve mali müşavirler için ay sonu mükellef fatura/fiş/ekstre toplama portalı, teslim tutanağı üretici ve WhatsApp hatırlatıcı.
 * ⚡ **[awesome-turkiye-e-donusum](https://github.com/eimza-kep/awesome-turkiye-e-donusum):** Türkiye E-Dönüşüm ekosistemi açık kaynak projeleri, mevzuatları ve kaynaklarının güncel ana fihristi.
 
 ---
