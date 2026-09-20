@@ -67,8 +67,9 @@ BTK tarafından 5070 sayılı Kanun kapsamında yetkilendirilmiş resmi sağlay�
 
 ## 🛠️ Açık Kaynak E-Dönüşüm Araçları (CLI & Scriptler)
 
-Geliştiriciler ve sistem yöneticileri için arama trafiği ve saha deneyimiyle üretilmiş 10 açık kaynak GitHub projesi:
+Geliştiriciler, mali müşavirler, avukatlar ve KOBİ'ler için açık kaynak GitHub projelerimiz ve kurumsal web scriptleri:
 
+### 🛠️ E-Dönüşüm Sistem ve Masaüstü Araçları
 * 🔧 **[gib-java-guvenlik-cozucu](https://github.com/eimza-kep/gib-java-guvenlik-cozucu):** GİB e-Beyanname, e-Fatura ve UYAP'taki Java "Application Blocked" ve sertifika istisna engellerini tek tıkla çözen PowerShell scripti.
 * ⏱️ **[mali-muhur-eimza-suresi-kontrol](https://github.com/eimza-kep/mali-muhur-eimza-suresi-kontrol):** Bilgisayara takılı akıllı kart veya token cihazındaki sertifikanın bitiş süresini tarayıp kalan gün sayısını ve kriz uyarılarını raporlayan araç.
 * 🩺 **[akilli-kart-surucu-teshis](https://github.com/eimza-kep/akilli-kart-surucu-teshis):** Windows 10/11'de "Akıllı kart tanınmıyor" hatasını teşhis eden, Akıllı Kart (Smart Card) servisini onaran ve AKİS/SafeNet sürücü durumunu inceleyen tanı asistanı.
@@ -78,15 +79,29 @@ Geliştiriciler ve sistem yöneticileri için arama trafiği ve saha deneyimiyle
 * 🧾 **[e-fatura-xml-goruntuleyici](https://github.com/eimza-kep/e-fatura-xml-goruntuleyici):** GİB UBL-TR 1.2 formatındaki e-Fatura, e-Arşiv ve e-İrsaliye XML dosyalarını XSLT şablonuyla dönüştürüp yerel tarayıcıda görselleştiren CLI aracı.
 * 🔓 **[eimza-pin-bloke-asistani](https://github.com/eimza-kep/eimza-pin-bloke-asistani):** 3 kez yanlış girilerek kilitlenen USB token PIN kodunu PUK kullanarak güvenle sıfırlamaya rehberlik eden terminal arayüzü.
 * 📊 **[gib-edefter-berat-xml-dogrulayici](https://github.com/eimza-kep/gib-edefter-berat-xml-dogrulayici):** e-Defter Yevmiye, Kebir ve Berat XML dosyalarının GİB şema (XSD) geçerliliğini, özet değerlerini ve Mali Mühür imza bloğunu denetleyen Python aracı.
+
+### 🌐 Hızlı Kurulan Kurumsal Web Scriptleri (Zero-Dependency Web Apps)
+* 🛡️ **[kurumsal-kvkk-basvuru-scripti](https://github.com/eimza-kep/kurumsal-kvkk-basvuru-scripti):** 6698 Sayılı KVKK İlgili Kişi (Veri Sahibi) Başvuru Formu, 30 günlük yasal süre takip paneli ve hafif çerez izin barı scripti.
+* 💼 **[kobi-hizli-teklif-scripti](https://github.com/eimza-kep/kobi-hizli-teklif-scripti):** KOBİ ve B2B firmalar için 1 dakikada kurulan fiyat teklifi talep scripti, dinamik sepet/KDV hesaplayıcı, yazdırılabilir proforma ve WhatsApp entegrasyonu.
+* ⚖️ **[avukat-muvekkil-on-kayit-scripti](https://github.com/eimza-kep/avukat-muvekkil-on-kayit-scripti):** Avukatlar ve hukuk büroları için müvekkil ön görüşme, dosya kabul ve Avukatlık Kanunu Md. 38 çıkar çatışması (conflict check) portalı.
+* 📊 **[muhasebe-mukellef-evrak-scripti](https://github.com/eimza-kep/muhasebe-mukellef-evrak-scripti):** SMMM ve mali müşavirler için ay sonu mükellef fatura/fiş/ekstre toplama portalı, teslim tutanağı üretici ve WhatsApp hatırlatıcı.
+* 👥 **[kurumsal-ik-is-basvuru-scripti](https://github.com/eimza-kep/kurumsal-ik-is-basvuru-scripti):** Kurumsal İK ve Kariyer İş Başvuru Formu, KVKK açık rıza onaylı CV yükleme ve aday yönetim paneli.
+* 📑 **[e-fatura-itiraz-ve-iade-scripti](https://github.com/eimza-kep/e-fatura-itiraz-ve-iade-scripti):** TTK Md. 18/3 uyarınca 8 günlük yasal itiraz süresi takip, e-Fatura iade ve itiraz tutanağı portalı.
+* ⚖️ **[avukat-arabuluculuk-basvuru-scripti](https://github.com/eimza-kep/avukat-arabuluculuk-basvuru-scripti):** 6325 sayılı Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu uyumlu dava şartı ve ihtiyari arabuluculuk başvuru portalı.
+* 🔧 **[kobi-servis-ariza-takip-scripti](https://github.com/eimza-kep/kobi-servis-ariza-takip-scripti):** KOBİ ve teknik servisler için cihaz arıza kayıt, otomatik SERV-XXXX takip kodu ve online durum sorgulama scripti.
+* 📦 **[smmm-stok-sayim-tutanak-scripti](https://github.com/eimza-kep/smmm-stok-sayim-tutanak-scripti):** VUK Md. 227 & 186 uyarınca dönem sonu / fiili stok sayım, fire ve envanter tutanağı düzenleme scripti.
+* 📋 **[kurumsal-isg-ziyaretci-kayit-scripti](https://github.com/eimza-kep/kurumsal-isg-ziyaretci-kayit-scripti):** 6331 sayılı İSG Kanunu uyumlu şirket lobi/tesis ziyaretçi kabul, acil durum tahliye listesi ve ziyaretçi takip scripti.
+* 🤝 **[kobi-tedarikci-teklif-toplama-scripti](https://github.com/eimza-kep/kobi-tedarikci-teklif-toplama-scripti):** KOBİ'ler için satın alma talep açma, tedarikçi teklif toplama ve karşılaştırmalı matris değerlendirme scripti.
+* ⭐ **[kobi-musteri-memnuniyet-nps-scripti](https://github.com/eimza-kep/kobi-musteri-memnuniyet-nps-scripti):** KOBİ'ler için 0-10 NPS ve CSAT müşteri memnuniyet anketi, anlık skor hesaplama ve şikayet yönetim scripti.
+* 🏠 **[kira-tahliye-ve-sozlesme-scripti](https://github.com/eimza-kep/kira-tahliye-ve-sozlesme-scripti):** TBK Md. 352 uyumlu tahliye taahhütnamesi hazırlama, kira sözleşmesi ve TÜFE yasal artış hesaplayıcı scripti.
+* 🏢 **[kurumsal-bayi-basvuru-scripti](https://github.com/eimza-kep/kurumsal-bayi-basvuru-scripti):** Üretici ve toptancılar için kurumsal bayi / franchise ön başvuru, teminat-ciro değerlendirme ve onay scripti.
+
+### 📚 Bilgi Bankaları, AI Portalleri ve Excel Kütüphaneleri
 * 🤖 **[turkiye-yapay-zeka-araclari](https://github.com/eimza-kep/turkiye-yapay-zeka-araclari):** Mali müşavirler, avukatlar ve KOBİ'ler için 20 yapay zeka aracı ve BYOK web portali (OpenAI & Google Gemini destekli, sıfır bağımlılık, yerel web arayüzü).
 * 📚 **[e-donusum-rehberleri](https://github.com/eimza-kep/e-donusum-rehberleri):** Türkiye E-Dönüşüm ekosistemi için 20 adet kapsamlı, adım adım teknik rehber ve arıza çözüm kılavuzu.
 * 📊 **[muhasebe-excel-sablonlari](https://github.com/eimza-kep/muhasebe-excel-sablonlari):** SMMM ve mali müşavirler için 7 adet tam formüllü Excel hesaplama ve denetim aracı (KDV tevkifat, amortisman, kıdem-ihbar, örtülü sermaye vb.).
 * ⚖️ **[avukat-hukuk-excel-hesaplamalari](https://github.com/eimza-kep/avukat-hukuk-excel-hesaplamalari):** Avukatlar ve hukuk büroları için 7 adet dinamik Excel hesaplama aracı (vekalet ücreti, harç-masraf, yasal/avans faiz, işçilik alacakları vb.).
 * 🏢 **[kobi-finans-yonetim-excel-sablonlari](https://github.com/eimza-kep/kobi-finans-yonetim-excel-sablonlari):** KOBİ ve işletmeler için 6 adet profesyonel finansal planlama ve nakit akış Excel şablonu (13 haftalık nakit akışı, başabaş analizi vb.).
-* 🛡️ **[kurumsal-kvkk-basvuru-scripti](https://github.com/eimza-kep/kurumsal-kvkk-basvuru-scripti):** 6698 Sayılı KVKK İlgili Kişi (Veri Sahibi) Başvuru Formu, 30 günlük yasal süre takip paneli ve hafif çerez izin barı scripti.
-* 💼 **[kobi-hizli-teklif-scripti](https://github.com/eimza-kep/kobi-hizli-teklif-scripti):** KOBİ ve B2B firmalar için 1 dakikada kurulan fiyat teklifi talep scripti, dinamik sepet/KDV hesaplayıcı, yazdırılabilir proforma ve WhatsApp entegrasyonu.
-* ⚖️ **[avukat-muvekkil-on-kayit-scripti](https://github.com/eimza-kep/avukat-muvekkil-on-kayit-scripti):** Avukatlar ve hukuk büroları için müvekkil ön görüşme, dosya kabul ve Avukatlık Kanunu Md. 38 çıkar çatışması (conflict check) portalı.
-* 📊 **[muhasebe-mukellef-evrak-scripti](https://github.com/eimza-kep/muhasebe-mukellef-evrak-scripti):** SMMM ve mali müşavirler için ay sonu mükellef fatura/fiş/ekstre toplama portalı, teslim tutanağı üretici ve WhatsApp hatırlatıcı.
 * ⚡ **[awesome-turkiye-e-donusum](https://github.com/eimza-kep/awesome-turkiye-e-donusum):** Türkiye E-Dönüşüm ekosistemi açık kaynak projeleri, mevzuatları ve kaynaklarının güncel ana fihristi.
 
 ---
