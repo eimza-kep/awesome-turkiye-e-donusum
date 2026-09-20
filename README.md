@@ -78,6 +78,11 @@ Geliştiriciler ve sistem yöneticileri için arama trafiği ve saha deneyimiyle
 * 🧾 **[e-fatura-xml-goruntuleyici](https://github.com/eimza-kep/e-fatura-xml-goruntuleyici):** GİB UBL-TR 1.2 formatındaki e-Fatura, e-Arşiv ve e-İrsaliye XML dosyalarını XSLT şablonuyla dönüştürüp yerel tarayıcıda görselleştiren CLI aracı.
 * 🔓 **[eimza-pin-bloke-asistani](https://github.com/eimza-kep/eimza-pin-bloke-asistani):** 3 kez yanlış girilerek kilitlenen USB token PIN kodunu PUK kullanarak güvenle sıfırlamaya rehberlik eden terminal arayüzü.
 * 📊 **[gib-edefter-berat-xml-dogrulayici](https://github.com/eimza-kep/gib-edefter-berat-xml-dogrulayici):** e-Defter Yevmiye, Kebir ve Berat XML dosyalarının GİB şema (XSD) geçerliliğini, özet değerlerini ve Mali Mühür imza bloğunu denetleyen Python aracı.
+* 🤖 **[turkiye-yapay-zeka-araclari](https://github.com/eimza-kep/turkiye-yapay-zeka-araclari):** Mali müşavirler, avukatlar ve KOBİ'ler için 20 yapay zeka aracı ve BYOK web portali (OpenAI & Google Gemini destekli, sıfır bağımlılık, yerel web arayüzü).
+* 📚 **[e-donusum-rehberleri](https://github.com/eimza-kep/e-donusum-rehberleri):** Türkiye E-Dönüşüm ekosistemi için 20 adet kapsamlı, adım adım teknik rehber ve arıza çözüm kılavuzu.
+* 📊 **[muhasebe-excel-sablonlari](https://github.com/eimza-kep/muhasebe-excel-sablonlari):** SMMM ve mali müşavirler için 7 adet tam formüllü Excel hesaplama ve denetim aracı (KDV tevkifat, amortisman, kıdem-ihbar, örtülü sermaye vb.).
+* ⚖️ **[avukat-hukuk-excel-hesaplamalari](https://github.com/eimza-kep/avukat-hukuk-excel-hesaplamalari):** Avukatlar ve hukuk büroları için 7 adet dinamik Excel hesaplama aracı (vekalet ücreti, harç-masraf, yasal/avans faiz, işçilik alacakları vb.).
+* 🏢 **[kobi-finans-yonetim-excel-sablonlari](https://github.com/eimza-kep/kobi-finans-yonetim-excel-sablonlari):** KOBİ ve işletmeler için 6 adet profesyonel finansal planlama ve nakit akış Excel şablonu (13 haftalık nakit akışı, başabaş analizi vb.).
 * ⚡ **[awesome-turkiye-e-donusum](https://github.com/eimza-kep/awesome-turkiye-e-donusum):** Türkiye E-Dönüşüm ekosistemi açık kaynak projeleri, mevzuatları ve kaynaklarının güncel ana fihristi.
 
 ---
