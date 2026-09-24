@@ -70,6 +70,8 @@ BTK tarafından 5070 sayılı Kanun kapsamında yetkilendirilmiş resmi sağlay�
 Geliştiriciler, mali müşavirler, avukatlar ve KOBİ'ler için açık kaynak GitHub projelerimiz ve kurumsal web scriptleri:
 
 ### 🛠️ E-Dönüşüm Sistem ve Masaüstü Araçları
+* 📝 **[udf2md](https://github.com/eimza-kep/udf2md):** UYAP Doküman Editörü (.udf) dosyalarını yapay zekanın (LLM / RAG) okuyabileceği temiz Markdown (.md) formatına ve gömülü görsellere dönüştüren açık kaynaklı CLI aracı ve kütüphane.
+* 🖥️ **[uyap-web-udf-editor](https://github.com/eimza-kep/uyap-web-udf-editor):** Tarayıcı üzerinde hiçbir kurulum veya Java yüklemesi gerektirmeden çalışan, açık kaynaklı modern web tabanlı UYAP UDF editörü ve görüntüleyicisi.
 * 🔧 **[gib-java-guvenlik-cozucu](https://github.com/eimza-kep/gib-java-guvenlik-cozucu):** GİB e-Beyanname, e-Fatura ve UYAP'taki Java "Application Blocked" ve sertifika istisna engellerini tek tıkla çözen PowerShell scripti.
 * ⏱️ **[mali-muhur-eimza-suresi-kontrol](https://github.com/eimza-kep/mali-muhur-eimza-suresi-kontrol):** Bilgisayara takılı akıllı kart veya token cihazındaki sertifikanın bitiş süresini tarayıp kalan gün sayısını ve kriz uyarılarını raporlayan araç.
 * 🩺 **[akilli-kart-surucu-teshis](https://github.com/eimza-kep/akilli-kart-surucu-teshis):** Windows 10/11'de "Akıllı kart tanınmıyor" hatasını teşhis eden, Akıllı Kart (Smart Card) servisini onaran ve AKİS/SafeNet sürücü durumunu inceleyen tanı asistanı.
