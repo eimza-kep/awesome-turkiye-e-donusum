@@ -208,13 +208,13 @@ Türkiye'de en çok kullanılan kriptografik donanımlar ve güvenlik seviyeleri
 
 Farklı kullanıcı kitleleri ve niş konular için özel olarak yayınlanan bağımsız bilgi merkezleri:
 
-* ✍️ **[E-İmza Rehberi](https://eimza-rehberi.pages.dev):** 5070 Sayılı Kanun, USB Token, AKİS sürücü kurulumları ve PIN blokesi çözümleri.
-* 📜 **[KEP Akademisi](https://kep-akademisi.pages.dev):** Kayıtlı Elektronik Posta, noter masrafsız ihtarname, istifa bildirimi ve delil güvenliği.
-* 🔴 **[Mali Mühür Merkezi](https://mali-muhur-merkezi.pages.dev):** TÜBİTAK Kamu SM başvuru, şirket kuruluşu, unvan değişikliği ve e-Defter kriz yönetimi.
-* 🧾 **[e-Fatura Atölyesi](https://efatura-atolyesi.pages.dev):** GİB e-Arşiv portalı, fatura iptal süreleri, e-İrsaliye karekod ve e-SMM hesaplamaları.
-* 🏭 **[E-Dönüşüm KOBİ](https://edonusum-kobi.pages.dev):** KOBİ'ler için ERP entegrasyonu, KOSGEB teşvikleri, e-Müstahsil makbuzu ve mikro ihracat KDV istisnası.
-* ⚖️ **[UYAP Teknik Destek](https://uyap-teknik-destek.pages.dev):** Hukukçular için UYAP Java bellek ayarları, UDF editör onarımı ve e-Duruşma rehberi.
-* 🔐 **[Dijital Kimlik Lab](https://dijital-kimlik-guvenlik.pages.dev):** PKI kriptografisi, RSA vs ECC, YubiKey FIDO2 donanımları ve Zero Trust güvenlik standartları.
+* ✍️ **[E-İmza Rehberi](https://eimzabilgi.site):** 5070 Sayılı Kanun, USB Token, AKİS sürücü kurulumları ve PIN blokesi çözümleri.
+* 📜 **[KEP Akademisi](https://keprehberi.site):** Kayıtlı Elektronik Posta, noter masrafsız ihtarname, istifa bildirimi ve delil güvenliği.
+* 🔴 **[Mali Mühür Merkezi](https://malimuhur.site):** TÜBİTAK Kamu SM başvuru, şirket kuruluşu, unvan değişikliği ve e-Defter kriz yönetimi.
+* 🧾 **[e-Fatura Atölyesi](https://efaturabilgi.site):** GİB e-Arşiv portalı, fatura iptal süreleri, e-İrsaliye karekod ve e-SMM hesaplamaları.
+* 🏭 **[E-Dönüşüm KOBİ](https://edonusumkobi.site):** KOBİ'ler için ERP entegrasyonu, KOSGEB teşvikleri, e-Müstahsil makbuzu ve mikro ihracat KDV istisnası.
+* ⚖️ **[UYAP Teknik Destek](https://uyapteknikdestek.site):** Hukukçular için UYAP Java bellek ayarları, UDF editör onarımı ve e-Duruşma rehberi.
+* 🔐 **[Dijital Kimlik Lab](https://kimlikguvenlik.site):** PKI kriptografisi, RSA vs ECC, YubiKey FIDO2 donanımları ve Zero Trust güvenlik standartları.
 * 🏛️ **[E-İmza Blog Ana Merkezi](https://eimza-kep.github.io/eimza-blog/):** Ulusal e-dönüşüm bilgi merkezi, açık kaynak araç kataloğu ve teknik rehberler.
 
 ---
