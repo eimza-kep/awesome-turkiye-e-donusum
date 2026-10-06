@@ -208,6 +208,8 @@ Türkiye'de en çok kullanılan kriptografik donanımlar ve güvenlik seviyeleri
 
 Farklı kullanıcı kitleleri ve niş konular için özel olarak yayınlanan bağımsız bilgi merkezleri:
 
+* 🤝 **[E-İmza.Plus Kurumsal Bayilik](https://e-imza.plus/bayilik/):** Kırtasiyeler, mali müşavirler, bilgisayarcılar ve danışmanlık firmaları için yüksek kâr marjlı E-İmza, KEP ve Mali Mühür yetkili başvuru merkezi (bayilik) platformu.
+* 🏢 **[eTamga - E-Dönüşüm Sağlayıcıları Rehberi](https://etamga.com/):** Türkiye'deki GİB onaylı özel entegratörlerin, ESHS'lerin ve e-Dönüşüm yazılım firmalarının detaylı, kıyaslamalı ve bağımsız listesi.
 * ✍️ **[E-İmza Rehberi](https://eimzabilgi.site):** 5070 Sayılı Kanun, USB Token, AKİS sürücü kurulumları ve PIN blokesi çözümleri.
 * 📜 **[KEP Akademisi](https://keprehberi.site):** Kayıtlı Elektronik Posta, noter masrafsız ihtarname, istifa bildirimi ve delil güvenliği.
 * 🔴 **[Mali Mühür Merkezi](https://malimuhur.site):** TÜBİTAK Kamu SM başvuru, şirket kuruluşu, unvan değişikliği ve e-Defter kriz yönetimi.
