@@ -42,6 +42,8 @@ Türkiye'de dijital dönüşümün ve elektronik delil hukukunun temelini oluşt
 * **[Türk Ticaret Kanunu (TTK) Madde 18/3](https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6102&MevzuatTur=1&MevzuatTertip=5):** Tacirler arası fesih, temerrüt ve sözleşmeden dönme ihtarlarının noter veya KEP ile yapılması zorunluluğu.
 * **[7201 Sayılı Tebligat Kanunu (Madde 7/a)](https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=7201&MevzuatTur=1&MevzuatTertip=5):** Anonim, limited ve komandit şirketlere tebligatların elektronik yolla yapılmasını zorunlu kılan hükümler.
 * **[Vergi Usul Kanunu 509 Sıra No.lu Genel Tebliği](https://www.gib.gov.tr/):** e-Fatura, e-Arşiv, e-İrsaliye, e-Defter, e-SMM ve e-Müstahsil düzenleme zorunlulukları ve ciro limitleri.
+* **[Vergi Usul Kanunu 596 Sıra No.lu Genel Tebliği](https://www.gib.gov.tr/):** Elektronik tebligat sistemi, zaman damgalı mazbata kayıtları ve muhatap tebellüğ süreçlerinin modernizasyonu.
+* **[Ulusal Siber Olaylara Müdahale Merkezi (USOM)](https://www.usom.gov.tr/):** Zararlı bağlantılar, oltalama (phishing) adresleri ve kurumsal siber tehdit istihbaratı bildirim merkezi.
 * **[Bilgi Teknolojileri ve İletişim Kurumu (BTK)](https://www.btk.gov.tr/):** ESHS ve KEP hizmet sağlayıcılarını yetkilendiren, denetleyen ve standartları belirleyen düzenleyici kurum.
 * **[Gelir İdaresi Başkanlığı (GİB) e-Belge Portalı](https://ebelge.gib.gov.tr/):** Fatura şemaları, UBL-TR paketleri ve e-defter duyurularının ana merkezi.
 * **[TÜBİTAK BİLGEM Kamu SM](https://kamusm.bilgem.tubitak.gov.tr/):** Türkiye'nin ulusal kök sertifika otoritesi ve Mali Mühür sağlayıcısı.
@@ -210,6 +212,9 @@ Farklı kullanıcı kitleleri ve niş konular için özel olarak yayınlanan ba�
 
 * 🤝 **[E-İmza.Plus Kurumsal Bayilik](https://e-imza.plus/bayilik/):** Kırtasiyeler, mali müşavirler, bilgisayarcılar ve danışmanlık firmaları için yüksek kâr marjlı E-İmza, KEP ve Mali Mühür yetkili başvuru merkezi (bayilik) platformu.
 * 🏢 **[eTamga - E-Dönüşüm Sağlayıcıları Rehberi](https://etamga.com/):** Türkiye'deki GİB onaylı özel entegratörlerin, ESHS'lerin ve e-Dönüşüm yazılım firmalarının detaylı, kıyaslamalı ve bağımsız listesi.
+* 📰 **[E-Dönüşüm Gündemi](https://edonusumgundemi.com.tr):** GİB mevzuatı, e-Fatura, e-Defter berat takvimi, KOBİ dijitalleşmesi ve vergi teknolojileri haber portalı.
+* ⚖️ **[Legal Bilişim Gazetesi](https://legalbilisim.com.tr):** UYAP, UETS elektronik tebligat, KEP delil hukuku, e-Duruşma ve LegalTech yargı bülteni.
+* 🛡️ **[Dijitrust / Dijital Güven Haber](https://dijitrust.com.tr):** 5070 s. E-İmza Kanunu, TÜBİTAK Kamu SM mali mühür, zaman damgası, KVKK ve siber güvenlik haber platformu.
 * ✍️ **[E-İmza Rehberi](https://eimzabilgi.site):** 5070 Sayılı Kanun, USB Token, AKİS sürücü kurulumları ve PIN blokesi çözümleri.
 * 📜 **[KEP Akademisi](https://keprehberi.site):** Kayıtlı Elektronik Posta, noter masrafsız ihtarname, istifa bildirimi ve delil güvenliği.
 * 🔴 **[Mali Mühür Merkezi](https://malimuhur.site):** TÜBİTAK Kamu SM başvuru, şirket kuruluşu, unvan değişikliği ve e-Defter kriz yönetimi.
