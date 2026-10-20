@@ -42,7 +42,9 @@ Türkiye'de dijital dönüşümün ve elektronik delil hukukunun temelini oluşt
 * **[Türk Ticaret Kanunu (TTK) Madde 18/3](https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6102&MevzuatTur=1&MevzuatTertip=5):** Tacirler arası fesih, temerrüt ve sözleşmeden dönme ihtarlarının noter veya KEP ile yapılması zorunluluğu.
 * **[7201 Sayılı Tebligat Kanunu (Madde 7/a)](https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=7201&MevzuatTur=1&MevzuatTertip=5):** Anonim, limited ve komandit şirketlere tebligatların elektronik yolla yapılmasını zorunlu kılan hükümler.
 * **[Vergi Usul Kanunu 509 Sıra No.lu Genel Tebliği](https://www.gib.gov.tr/):** e-Fatura, e-Arşiv, e-İrsaliye, e-Defter, e-SMM ve e-Müstahsil düzenleme zorunlulukları ve ciro limitleri.
+* **[Vergi Usul Kanunu 593 Sıra No.lu Genel Tebliği](https://www.gib.gov.tr/):** Yeni Nesil ÖKC (YN ÖKC) cihazlarında banka POS entegrasyonu zorunluluğu, bağımsız harici POS yasağı ve cihaz üzerinden anlık e-Arşiv/e-Fatura tanzim usulleri.
 * **[Vergi Usul Kanunu 596 Sıra No.lu Genel Tebliği](https://www.gib.gov.tr/):** Elektronik tebligat sistemi, zaman damgalı mazbata kayıtları ve muhatap tebellüğ süreçlerinin modernizasyonu.
+* **[Kişisel Verileri Koruma Kurumu (KVKK) 2026 İlke Kararları](https://www.kvkk.gov.tr/):** Kurumsal e-posta ve iletişim denetimi sınırları (özel nitelikli sağlık verisi koruması) ve internet sitesindeki veri ihlali duyurularına 60 gün azami süre sınırı.
 * **[Ulusal Siber Olaylara Müdahale Merkezi (USOM)](https://www.usom.gov.tr/):** Zararlı bağlantılar, oltalama (phishing) adresleri ve kurumsal siber tehdit istihbaratı bildirim merkezi.
 * **[Bilgi Teknolojileri ve İletişim Kurumu (BTK)](https://www.btk.gov.tr/):** ESHS ve KEP hizmet sağlayıcılarını yetkilendiren, denetleyen ve standartları belirleyen düzenleyici kurum.
 * **[Gelir İdaresi Başkanlığı (GİB) e-Belge Portalı](https://ebelge.gib.gov.tr/):** Fatura şemaları, UBL-TR paketleri ve e-defter duyurularının ana merkezi.
@@ -165,6 +167,7 @@ Türkiye'de ve uluslararası arenada kullanılan temel e-imza formatları ve kri
 Gelir İdaresi Başkanlığı tarafından yayımlanan UBL-TR 1.2 veri modeli standartları:
 
 * **UBL-TR 1.2 Şeması:** OASIS Universal Business Language tabanlı fatura ve irsaliye XML şeması (`Invoice.xsd`, `DespatchAdvice.xsd`).
+* **GİB 2026 Teknik Paket Güncellemesi:** Uluslararası lojistikte yabancı plaka/dorse ayrımı (`YABANCIPLAKA`, `YABANCIDORSE`, `YABANCIDORSEPLAKA`), yatırım teşvikli makine teslimlerinde müstakil `YatirimTesvikTaxExemptionReasonCodeType` kod bloğu ve e-Gider Pusulası için `erreceipt` etiket standardı.
 * **XSLT Görüntüleme Şablonları:** XML verisinin görsel faturaya dönüştürülmesini sağlayan stil sayfaları.
 * **GİB İmza Profili:** Fatura üzerindeki `<ds:Signature>` düğümünün `XAdES-EPES` formatında oluşturulması zorunluluğu.
 * **e-İrsaliye Karekod (QR Kod):** 24 karakterlik belge numarası, düzenleme tarihi ve saatini içeren güvenlik dizesi.
@@ -176,7 +179,10 @@ Gelir İdaresi Başkanlığı tarafından yayımlanan UBL-TR 1.2 veri modeli sta
 
 Adalet Bakanlığı ve Türkiye Barolar Birliği bilişim sistemleri:
 
-* **UYAP Avukat Portalı:** Dava açma, tensip zaptı okuma, masraf yatırma ve mazeret gönderme portalı.
+* **UYAP Avukat Portalı:** Dava açma, tensip zaptı okuma, masraf yatırma, mazeret gönderme ve MERSİS entegrasyonu ile borçlu şirket ortaklıklarını anlık sorgulama portalı.
+* **UYAP Şirket Payı ve Banka Haczi Modülü:** İcra dosyalarında borçluların Anonim ve Limited Şirket ortaklık paylarına doğrudan haciz koyma ve tüzel kişi borçlular için merkezi banka hesap sorgulama sistemi.
+* **Bölge Adliye Mahkemeleri (İstinaf) e-Duruşma:** İstinaf ceza ve hukuk dairelerinde avukat, tanık ve bilirkişilerin mahkeme salonuna gitmeden dinlenebildiği genişletilmiş e-Duruşma altyapısı.
+* **Adalet E-İmza Uygulaması:** Tarayıcı bağımsız, yerel masaüstü portları üzerinden çalışan güvenli e-imza oturum köprüsü.
 * **UYAP Doküman Editörü (.udf):** Adalet teşkilatında kullanılan özel sıkıştırılmış XML doküman biçimi.
 * **e-Duruşma Sistemi:** Sesli ve görüntülü duruşmaya uzaktan katılımı sağlayan WebRTC tabanlı platform.
 * **BaroKart:** Avukatların duruşma, harç ve baro işlemlerini yönettiği akıllı kart entegrasyonu.
