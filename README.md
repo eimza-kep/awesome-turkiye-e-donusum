@@ -1,9 +1,10 @@
 # Awesome Türkiye E-Dönüşüm 🇹🇷⚡
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Lisans: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![Lisans: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![Portal](https://img.shields.io/badge/Rehber-E--%C4%B0mza%20Blog-22c55e.svg)](https://eimza-kep.github.io/eimza-blog/)
+[![RSS 2.0](https://img.shields.io/badge/RSS-2.0%20Feed-orange.svg)](https://eimza-kep.github.io/eimza-blog/feed.xml)
 
 > Türkiye'deki **E-İmza**, **Mali Mühür**, **KEP (Kayıtlı Elektronik Posta)**, **e-Fatura**, **e-Defter**, **e-İrsaliye**, **e-SMM**, **UYAP**, **GİB** ve **e-Devlet** ekosistemi için derlenmiş açık kaynaklı kütüphaneler, resmi standartlar, sürücüler, araçlar, komut satırı hileleri (cheat sheet) ve teknik çözüm rehberleri listesi.
 
@@ -74,8 +75,8 @@ BTK tarafından 5070 sayılı Kanun kapsamında yetkilendirilmiş resmi sağlay�
 Geliştiriciler, mali müşavirler, avukatlar ve KOBİ'ler için açık kaynak GitHub projelerimiz ve kurumsal web scriptleri:
 
 ### 🛠️ E-Dönüşüm Sistem ve Masaüstü Araçları
-* 📝 **[udf2md](https://github.com/eimza-kep/udf2md) `v1.1`:** UYAP Doküman Editörü (.udf) dava dosyalarını yapay zekanın (ChatGPT, Gemini, Claude, RAG) okuyabileceği ve vektörleştirebileceği temiz Markdown (.md) ve JSON formatına dönüştüren, görsel ayıklama destekli CLI aracı ve kütüphane.
-* 🖥️ **[uyap-web-udf-editor](https://github.com/eimza-kep/uyap-web-udf-editor):** Tarayıcı üzerinde hiçbir kurulum veya Java yüklemesi gerektirmeden çalışan, açık kaynaklı modern web tabanlı UYAP UDF editörü ve görüntüleyicisi.
+* 📝 **[udf2md](https://github.com/eimza-kep/udf2md) `v1.2`:** UYAP Doküman Editörü (.udf) dava dosyalarını yapay zekanın (ChatGPT, Gemini, Claude, RAG) okuyabileceği ve vektörleştirebileceği temiz Markdown (.md) ve JSON formatına dönüştüren, görsel ayıklama destekli CLI aracı ve kütüphane.
+* 🖥️ **[javascript-udf-editor](https://github.com/eimza-kep/javascript-udf-editor) / [uyap-web-udf-editor](https://github.com/eimza-kep/uyap-web-udf-editor):** Tarayıcı üzerinde hiçbir kurulum veya Java yüklemesi gerektirmeden çalışan, açık kaynaklı modern web tabanlı UYAP UDF editörü ve görüntüleyicisi.
 * 🔧 **[gib-java-guvenlik-cozucu](https://github.com/eimza-kep/gib-java-guvenlik-cozucu) `v1.2`:** GİB e-Beyanname, e-Fatura, e-Defter, UYAP, DYS ve MERSİS portallarındaki Java "Application Blocked" ve sertifika istisna engellerini tek komutla çözen ve Java önbelleğini sıfırlayan araç.
 * ⏱️ **[mali-muhur-eimza-suresi-kontrol](https://github.com/eimza-kep/mali-muhur-eimza-suresi-kontrol) `v1.2`:** Bilgisayara takılı akıllı kart veya token cihazındaki sertifikanın bitiş süresini Windows sertifika deposu üzerinden tarayıp kalan gün sayısını, ESHS sağlayıcısını ve acil durum uyarılarını raporlayan araç.
 * 🩺 **[akilli-kart-surucu-teshis](https://github.com/eimza-kep/akilli-kart-surucu-teshis) `v1.2`:** Windows 10/11, Linux ve Mac'te "Akıllı kart tanınmıyor" hatasını teşhis eden, Akıllı Kart (`SCardSvr` / `pcscd`) servisini onaran ve AKİS, SafeNet, TÜRKTRUST, E-Tuğra sürücü durumunu inceleyen tanı asistanı.
@@ -103,8 +104,10 @@ Geliştiriciler, mali müşavirler, avukatlar ve KOBİ'ler için açık kaynak G
 * 🏢 **[kurumsal-bayi-basvuru-scripti](https://github.com/eimza-kep/kurumsal-bayi-basvuru-scripti):** Üretici ve toptancılar için kurumsal bayi / franchise ön başvuru, teminat-ciro değerlendirme ve onay scripti.
 
 ### 📚 Bilgi Bankaları, AI Portalleri ve Excel Kütüphaneleri
-* 🤖 **[turkiye-yapay-zeka-araclari](https://github.com/eimza-kep/turkiye-yapay-zeka-araclari):** Mali müşavirler, avukatlar ve KOBİ'ler için 20 yapay zeka aracı ve BYOK web portali (OpenAI & Google Gemini destekli, sıfır bağımlılık, yerel web arayüzü).
-* 📚 **[e-donusum-rehberleri](https://github.com/eimza-kep/e-donusum-rehberleri):** Türkiye E-Dönüşüm ekosistemi için 20 adet kapsamlı, adım adım teknik rehber ve arıza çözüm kılavuzu.
+* 🧠 **[100-e-donusum-skili](https://github.com/eimza-kep/100-e-donusum-skili) `v1.2`:** Türkiye E-Dönüşüm ekosistemi için 102 adet üretime hazır prompt mühendisliği skili, LLM ajan talimatları (e-Fatura, UYAP UDF, KVKK, KEP, Mali Mühür, e-Adisyon, e-Müstahsil) ve yerel Ollama/LM Studio destekli interaktif Web Prompt Playground.
+* 🤖 **[turkiye-yapay-zeka-araclari](https://github.com/eimza-kep/turkiye-yapay-zeka-araclari) `v1.3`:** Mali müşavirler, avukatlar ve KOBİ'ler için 20 yapay zeka aracı ve BYOK web portali (OpenAI, Google Gemini ve %100 çevrimdışı yerel Ollama/LM Studio desteği, sıfır bağımlılık yerleşik UYAP UDF ayrıştırıcı).
+* 📚 **[e-donusum-rehberleri](https://github.com/eimza-kep/e-donusum-rehberleri) `v1.3`:** Türkiye E-Dönüşüm ekosistemi için 28 adet kapsamlı teknik rehber (2026 e-Defter İkincil Kopya Otomasyonu, e-İrsaliye 24 karakterlik karekod doğrulama scripti, UYAP ve AKİS arıza çözüm kılavuzları).
+* 🏛️ **[eimza-blog](https://github.com/eimza-kep/eimza-blog) `v1.3`:** Ulusal e-dönüşüm bilgi merkezi, açık kaynak blog motoru; %100 Vanilla JS anlık arama motoru, dinamik kategori filtreleri, RFC-822 uyumlu RSS 2.0 (`feed.xml`) ve JSON Feed 1.1 (`feed.json`) yayını.
 * 📊 **[muhasebe-excel-sablonlari](https://github.com/eimza-kep/muhasebe-excel-sablonlari):** SMMM ve mali müşavirler için 7 adet tam formüllü Excel hesaplama ve denetim aracı (KDV tevkifat, amortisman, kıdem-ihbar, örtülü sermaye vb.).
 * ⚖️ **[avukat-hukuk-excel-hesaplamalari](https://github.com/eimza-kep/avukat-hukuk-excel-hesaplamalari):** Avukatlar ve hukuk büroları için 7 adet dinamik Excel hesaplama aracı (vekalet ücreti, harç-masraf, yasal/avans faiz, işçilik alacakları vb.).
 * 🏢 **[kobi-finans-yonetim-excel-sablonlari](https://github.com/eimza-kep/kobi-finans-yonetim-excel-sablonlari):** KOBİ ve işletmeler için 6 adet profesyonel finansal planlama ve nakit akış Excel şablonu (13 haftalık nakit akışı, başabaş analizi vb.).
@@ -121,6 +124,8 @@ Geliştiriciler, mali müşavirler, avukatlar ve KOBİ'ler için açık kaynak G
 * **[Bouncy Castle Java](https://www.bouncycastle.org/java.html):** ASN.1 ayrıştırma, X.509 sertifika yönetimi ve kriptografik ilkel işlemler.
 
 ### Python
+* **[udf2md](https://github.com/eimza-kep/udf2md):** Python ile UYAP `.udf` XML dokümanlarını ayrıştırıp Markdown ve JSON'a çeviren bağımsız kütüphane.
+* **[python-pdf-eimza-dogrulayici](https://github.com/eimza-kep/python-pdf-eimza-dogrulayici):** Sıfır bağımlılık ASN.1 DER ayrıştırıcı ile ETSI PAdES-BES/LTV dijital imza doğrulayıcı.
 * **[pyHanko](https://github.com/MatthiasValvekens/pyHanko):** Python ile PAdES, CAdES, LTV ve RFC 3161 zaman damgalı PDF imzalama/doğrulama kütüphanesi.
 * **[python-pkcs11](https://github.com/danni/python-pkcs11):** Akıllı kart donanımları ve HSM'ler için PKCS#11 API Python sarmalayıcısı.
 * **[cryptography](https://cryptography.io/):** Python ekosisteminin en popüler kriptografi kütüphanesi (X.509, RSA, ECC).
@@ -170,7 +175,7 @@ Gelir İdaresi Başkanlığı tarafından yayımlanan UBL-TR 1.2 veri modeli sta
 * **GİB 2026 Teknik Paket Güncellemesi:** Uluslararası lojistikte yabancı plaka/dorse ayrımı (`YABANCIPLAKA`, `YABANCIDORSE`, `YABANCIDORSEPLAKA`), yatırım teşvikli makine teslimlerinde müstakil `YatirimTesvikTaxExemptionReasonCodeType` kod bloğu ve e-Gider Pusulası için `erreceipt` etiket standardı.
 * **XSLT Görüntüleme Şablonları:** XML verisinin görsel faturaya dönüştürülmesini sağlayan stil sayfaları.
 * **GİB İmza Profili:** Fatura üzerindeki `<ds:Signature>` düğümünün `XAdES-EPES` formatında oluşturulması zorunluluğu.
-* **e-İrsaliye Karekod (QR Kod):** 24 karakterlik belge numarası, düzenleme tarihi ve saatini içeren güvenlik dizesi.
+* **e-İrsaliye Karekod (QR Kod):** 24 karakterlik belge numarası (16 hane), düzenleme tarihi (8 hane) ve saatini (4 hane) içeren güvenlik dizesi.
 * **e-Defter Şemaları:** `Yevmiye.xsd`, `Kebir.xsd` ve bunlara ait `Berat.xsd` XML yapıları.
 
 ---
@@ -242,27 +247,53 @@ certutil -scinfo
 ```
 *Bu komut takılı akıllı kartın ATR bilgisini, okuyucu adını ve sertifika zincirini test eder.*
 
-### 2. Linux'ta Takılı USB Token'ı ve PKCS#11 Yuvalarını Listeleme
+### 2. Windows PowerShell ile E-İmza / X.509 Sertifikası ve Bitiş Süresi Listeleme
+```powershell
+Get-ChildItem Cert:\CurrentUser\My | Select-Object Subject, FriendlyName, NotAfter, HasPrivateKey | Format-Table -AutoSize
+```
+
+### 3. macOS Sequoia (15.x) & Apple Silicon (M1-M4) Akıllı Kart ve Okuyucu Tanılama
+```bash
+# Takılı akıllı kartları ve donanım belirteçlerini listeleme
+security list-smartcards
+
+# Yerel PC/SC katmanı ve SmartCardDaemon durumunu test etme
+pcsctest
+```
+
+### 4. Linux'ta Takılı USB Token'ı ve PKCS#11 Yuvalarını Listeleme
 ```bash
 pkcs11-tool --module /usr/lib/libakisp11.so -L
 ```
 
-### 3. Akıllı Karttaki Sertifikaları Listeleme
+### 5. Akıllı Karttaki Sertifikaları Listeleme
 ```bash
 pkcs11-tool --module /usr/lib/libakisp11.so --list-objects --type cert
 ```
 
-### 4. Linux'ta Kart Okuyucu Durumunu İzleme (Gerçek Zamanlı)
+### 6. Linux'ta Kart Okuyucu Durumunu İzleme (Gerçek Zamanlı)
 ```bash
 pcsc_scan
 ```
 
-### 5. OpenSSL ile Sertifika Bitiş Tarihini Okuma
+### 7. UYAP UDF Dosyasını CLI Üzerinden Markdown'a Dönüştürme
+```bash
+python -m udf2md dava_dosyasi.udf -o cikti.md --extract-images
+```
+
+### 8. e-İrsaliye 24 Karakterlik Karekod Güvenlik Dizesi Doğrulama (PowerShell)
+```powershell
+# Belge No (16 hane) + Düzenleme Tarihi (YYYYMMDD) + Saat (HHMM) format denetimi
+$karekod = "GIB2026000000001202610231430"
+if ($karekod -match '^[A-Z0-9]{16}\d{8}\d{4}$') { Write-Host "Geçerli e-İrsaliye Karekodu" -ForegroundColor Green }
+```
+
+### 9. OpenSSL ile Sertifika Bitiş Tarihini Okuma
 ```bash
 openssl x509 -in sertifika.crt -noout -enddate
 ```
 
-### 6. Sertifikanın SHA-256 Parmak İzini (Fingerprint) Alma
+### 10. Sertifikanın SHA-256 Parmak İzini (Fingerprint) Alma
 ```bash
 openssl x509 -in sertifika.crt -noout -fingerprint -sha256
 ```
@@ -274,9 +305,9 @@ openssl x509 -in sertifika.crt -noout -fingerprint -sha256
 | Hata / Problem | Olası Neden | Hızlı Çözüm Adımı |
 |---|---|---|
 | **"Application Blocked by Java Security"** | Java güvenlik listesinde sitenin olmaması. | Denetim Masası -> Java -> Security -> *Edit Site List* diyerek ilgili kamu URL'sini (`https://*.gov.tr`) ekleyin veya [gib-java-guvenlik-cozucu](https://github.com/eimza-kep/gib-java-guvenlik-cozucu) çalıştırın. |
-| **"Akıllı Kart Takılı Değil / Bulunamadı"** | Smart Card servisinin askıda kalması. | `services.msc` üzerinden **Akıllı Kart (Smart Card)** hizmetini yeniden başlatın; USB portunu değiştirin. |
-| **"PIN Kodu Bloke Oldu"** | Şifrenin 3 kez yanlış girilmesi. | AKİS Kart İzleme Aracı -> *Kilit Çöz* sekmesinden PUK kodunu girerek yeni PIN belirleyin. |
-| **UYAP Doküman Editörü (.udf) Açılmıyor** | Java geçici önbellek bozulması veya bellek yetersizliği. | `javaw.exe` işlemlerini sonlandırın; Java Temporary Internet Files'ı silin; bellek parametresine `-Xmx1024m` yazın. |
+| **"Akıllı Kart Takılı Değil / Bulunamadı"** | Smart Card servisinin askıda kalması. | `services.msc` üzerinden **Akıllı Kart (Smart Card)** hizmetini yeniden başlatın; USB portunu değiştirin veya [akilli-kart-surucu-teshis](https://github.com/eimza-kep/akilli-kart-surucu-teshis) çalıştırın. |
+| **"PIN Kodu Bloke Oldu"** | Şifrenin 3 kez yanlış girilmesi. | AKİS Kart İzleme Aracı -> *Kilit Çöz* sekmesinden PUK kodunu girerek yeni PIN belirleyin veya [eimza-pin-bloke-asistani](https://github.com/eimza-kep/eimza-pin-bloke-asistani) kullanın. |
+| **UYAP Doküman Editörü (.udf) Açılmıyor** | Java geçici önbellek bozulması veya bellek yetersizliği. | `javaw.exe` işlemlerini sonlandırın; Java Temporary Internet Files'ı silin; bellek parametresine `-Xmx1024m` yazın veya [uyap-editor-hizli-onarim](https://github.com/eimza-kep/uyap-editor-hizli-onarim) ile onarın. |
 | **e-Defter Berat Yüklemede "İmza Doğrulanamadı"** | Sertifika zincirinin eksik olması veya kök sertifika uyuşmazlığı. | Kamu SM Kök Sertifikalarını bilgisayarın "Güvenilen Kök Sertifika Yetkilileri" deposuna yükleyin. |
 
 ---
